@@ -9,7 +9,12 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "World",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "better_neolitich",
